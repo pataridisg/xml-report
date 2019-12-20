@@ -1,0 +1,61 @@
+\begin{thebibliography}{10}
+
+\bibitem{crespo02routing}
+A.~Crespo and H.~Garcia-Molina.
+\newblock {Routing Indices for Peer-to-Peer Systems}.
+\newblock In {\em ICDCS}, 2002.
+
+\bibitem{molina02efficient}
+H.~Garcia-Molina and B.~Yang.
+\newblock {Efficient Search in Peer-to-Peer Networks}.
+\newblock In {\em {ICDCS}}, 2002.
+
+\bibitem{leonard07lifetime}
+D.~Leonard, Z.~Yao, V.~Rai, and D.~Loguinov.
+\newblock {On Lifetime-Based Node Failure and Stohastic Resilience of
+  Decentralised Peer-to-Peer Networks}.
+\newblock {\em {IEEE/ACM Transactions on Networking}}, 15(3), 2007.
+
+\bibitem{li04semantic}
+M.~Li, W.-C. Lee, and A.~Sivasubramaniam.
+\newblock {Semantic Small World: An Overlay Network for Peer-to-Peer Search}.
+\newblock In {\em {ICNP}}, 2004.
+
+\bibitem{raftopoulou08measure}
+P.~Raftopoulou and E.~Petrakis.
+\newblock {A Measure for Cluster Cohesion in Semantic Overlay Networks}.
+\newblock In {\em LSDS-IR}, 2008.
+
+\bibitem{raftopoulou08iCluster}
+P.~Raftopoulou and E.G.M. Petrakis.
+\newblock {iCluster: a Self-Organising Overlay Network for P2P Information
+  Retrieval}.
+\newblock In {\em {ECIR}}, 2008.
+
+\bibitem{rpt09rewiring}
+P.~Raftopoulou, E.G.M. Petrakis, and C.~Tryfonopoulos.
+\newblock {Rewiring Strategies for Semantic Overlay Networks}.
+\newblock {\em Distributed and Parallel DataBases}, 2--3(26), 2009.
+
+\bibitem{schmitz04self}
+C.~Schmitz.
+\newblock {Self-Organization of a Small World by Topic}.
+\newblock In {\em {P2PKM}}, 2004.
+
+\bibitem{stutzbach06understanding}
+D.~Stutzbach and R.~Rejaie.
+\newblock {Understanding Churn in Peer-to-Peer Networks}.
+\newblock In {\em INFOCOM}, 2006.
+
+\bibitem{xu99cluster}
+J.~Xu and W.B. Croft.
+\newblock {Cluster-Based Language Models for Distributed Retrieval}.
+\newblock In {\em ACM SIGIR}, 1999.
+
+\bibitem{yao06modeling}
+Z.~Yao, D.~Leonard, X.~Wang, and D.~Loguinov.
+\newblock {Modeling Heterogeneous User Churn and Local Resilience of
+  Unstructured P2P Networks}.
+\newblock In {\em ICNP}, 2006.
+
+\end{thebibliography}
